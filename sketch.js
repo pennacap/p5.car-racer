@@ -1,6 +1,6 @@
-\* You are probably only seeing this wondering why my code isnt working
+/* You are probably only seeing this wondering why my code isnt working
 Can you please review the code. The cars come sometimes and sometimes they failed
-I deleted the track because it was not showing the image for some reason*\
+I deleted the track because it was not showing the image for some reason*/
 var pos;
 var posVal;
 var car;
